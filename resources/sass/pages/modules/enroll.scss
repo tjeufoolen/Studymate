@@ -1,0 +1,7 @@
+.lecture-class-selector {
+    &::after {
+        top: 45%;
+        right: 10px;
+        position: absolute;
+    }
+}
