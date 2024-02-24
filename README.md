@@ -1,4 +1,4 @@
-# LARAVEL_StudyInformationSystem
+# Studymate
 Simple study information system where teachers can create modules and assign students. Afterwards, students can submit tests to earn their studypoints. Written in PHP using the Laravel framework.
 
 ## Prerequisites
